@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Dias1296
 - 👀 I’m interested in EVERYTHING
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Ruby
+- 🌱 I’m currently dabbling in Python
