@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Dias1296
 - 👀 I’m interested in EVERYTHING
-- 🌱 I’m currently dabbling in Python
+- 🌱 I’m currently dabbling in C# mostly
